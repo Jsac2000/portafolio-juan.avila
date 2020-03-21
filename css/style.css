@@ -1,0 +1,191 @@
+@charset "utf-8";
+/* CSS Document */
+body{
+	font-family: "Motorola ScreenType";
+	font-size: 14px;
+	color: #000;
+}
+.container{
+	max-width: 960px;
+}
+.container{
+	width: 100%;
+	padding-left: 10px;
+	padding-right: 10px;
+	margin-right: auto;
+	margin-left: auto;
+}
+header{
+	background-color: #00609b;
+}
+
+#home{
+	text-align: center;
+	background-image: url("../img/fondo1.png");
+	background-repeat: no-repeat;
+	background-size: cover;
+	padding: 50px;
+}
+#home h2{
+	font-family: "04b 30";
+	color: #fff300;
+	font-size: 80px;
+	padding: 10px 50px;
+}
+#home h3{
+	font-family: "Superstar";
+	font-size: 40px;
+	color: #fff300;
+}
+
+
+#acerca{
+	background-color: #0099ce;
+	text-align: center;
+	font-size: 30px;
+	color: #000;
+	padding: 60px 120px;
+	font-family: "Motorola ScreenType";
+}
+.title{
+	font-family: "04b 30";
+	color: #fff300;
+	font-size: 60px;
+	padding: 10px 50px;
+}
+.subtitle{
+	font-family: "Superstar";
+	font-size: 36px;
+	color: #fff;
+}
+#acerca h3{
+	padding-top: 20px;
+	font-size: 45px;
+}
+#acerca p{
+	padding-top: 20px;
+	line-height: 40px;
+}
+
+
+#trabajos{
+	background-image: url("../img/fondo2.png");
+	background-repeat: no-repeat;
+	background-size: cover;
+	padding: 50px;
+	text-align: center;
+}
+#trabajos .title{
+	text-align: right
+}
+
+#trabajos .thumbnail{
+	max-width: 110%;
+}
+
+#trabajos .thumbnail2{
+	max-width: 180%;
+	padding-top: 30px;
+}
+
+
+#servicios{
+	background-color: #00b2ff;
+	text-align: center;
+	font-size: 30px;
+	padding: 50px;
+}
+#servicios .bottom{
+	max-width: 23%;
+}
+#servicios h2{
+	text-align: left;
+}
+#servicios .subtitle{
+	font-size: 40px;
+}
+
+
+#contact{
+	background-image: url("../img/fondo3.png");
+	background-repeat: no-repeat;
+	background-size: cover;
+	padding: 50px 15%;
+	text-align: left;
+}
+#contact .title{
+	text-align: center;
+}
+.form-control{
+	background-color: rgba(184,184,184,0.70);
+	border: 0;
+	border-radius: 0;
+}
+
+#nombre{
+	font-size: 16px;
+}
+#e-mail{
+	font-size: 16px;
+}
+#mensaje{
+	font-size: 16px;
+}
+#contact .btn-light{
+	padding: 5px 20px;
+	font-size: 24px;
+	font-family: "Superstar";
+	background-color: #fff300;
+	border: solid #000;
+	color:#878100;
+}
+#contact .btn-light:hover{
+	background-color: #FF143B;
+	color: #9A0921;
+}
+
+
+#info-footer{
+	background-color: #00609b;
+	color: #00b2ff;
+	padding: 50px 80px;
+	font-size: 16px;
+}
+.contact-footer{
+	font-size: 20px;
+	border-right: dashed #fff300;
+}
+.contact-footer h3{
+	padding-bottom: 20px;
+	font-family: "Superstar";
+	font-size: 36px;
+}
+.redes-sociales{
+	padding-left: 50px;
+}
+.redes-sociales h3{
+	padding-bottom: 20px;
+	font-family: "Superstar";
+	font-size: 36px;
+}
+.redes i{
+	color: #00b2ff;
+	font-size: 40px;
+	letter-spacing: 20px;
+}
+.redes i:hover{
+	color: #fff300;
+	transition: all 0.3s ease-in-out;
+}
+
+
+
+
+
+
+
+
+
+
+
+
