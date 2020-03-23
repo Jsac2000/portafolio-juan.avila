@@ -95,8 +95,8 @@ a{
 	
 }
 
-.img-fluid{
-	max-width: 50%;
+.navbar-brand .img-fluid{
+	max-width: 100%;
 	height: auto;
 	
 }
